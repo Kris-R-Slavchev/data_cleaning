@@ -1,1 +1,1 @@
-# DATA CLEANING USING SQL
+# Data cleaning using SQL
